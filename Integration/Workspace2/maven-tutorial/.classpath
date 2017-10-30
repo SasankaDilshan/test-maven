@@ -14,11 +14,7 @@
   <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-openwire-legacy/5.15.2/activemq-openwire-legacy-5.15.2.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/activemq/protobuf/activemq-protobuf/1.1/activemq-protobuf-1.1.jar"/>
   <classpathentry kind="var" path="M2_REPO/commons-net/commons-net/3.6/commons-net-3.6.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar">
-    <attributes>
-      <attribute value="provided" name="org.mule.tooling.scope"/>
-    </attributes>
-  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-j2ee-management_1.1_spec/1.0.1/geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/fusesource/hawtbuf/hawtbuf/1.11/hawtbuf-1.11.jar"/>
   <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.jar"/>
