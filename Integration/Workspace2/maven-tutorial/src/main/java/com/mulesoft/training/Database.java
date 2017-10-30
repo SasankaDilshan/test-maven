@@ -44,6 +44,6 @@ public class Database implements InitializingBean {
         catch (java.sql.SQLException sqle) {
             sqle.printStackTrace();
             throw sqle;
-        }
-    }
+		}
+	}
 }
