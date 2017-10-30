@@ -12,7 +12,6 @@ public class HelloMavenTest extends FunctionalTestCase {
         runFlowAndExpect("maven-tutorial", "Hello");
     }
     
-    @Test
     public void retrieveFlightsAddsAppropriateHeader() throws Exception {
       MuleEvent event = runFlow("retrieve-flights");
       String contentType = event.getMessage().getOutboundProperty("Content-Type");
